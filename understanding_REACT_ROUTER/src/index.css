@@ -1,0 +1,28 @@
+body{
+  background-color: darkgray   ;
+}
+nav{
+  display: flex;
+  gap: 34px;
+  background-color: black;
+  color: white;
+}
+
+li{
+  list-style: none;
+  padding: 23px;
+}
+
+a li{
+  color: wheat;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.red{
+  background-color: red;
+  text:white
+}

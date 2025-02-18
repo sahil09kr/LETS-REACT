@@ -12,5 +12,4 @@ const reactElement ={
 }
 
 const mainContainer=document.querySelector('#Custom')
-
 customRender(reactElement,mainContainer)  
